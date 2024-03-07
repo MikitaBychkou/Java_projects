@@ -1,0 +1,16 @@
+Noah,2015,dorosly;Stado1,1;
+Liam,2013,dorosly;Stado1,2;
+Mason,2022,mlody;Stado1,3;
+Jacob,2022,mlody;Stado1,4;
+Amanda,2022,mlody;0;;
+Amelia,2022,mlody;0;;
+Iris,2016,dorosly;2;Mason,2022,mlody;Stado1,3;Jacob,2022,mlody;Stado1,4;;
+Alice,2015,dorosly;2;Amanda,2022,mlody;0;;Amelia,2022,mlody;0;;;
+Samuel,2014,dorosly;Stado2,1;
+Eberhard,2012,dorosly;Stado2,2;
+Harry,2020,mlody;Stado2,3;
+George,2020,mlody;Stado2,4;
+Cheril,2020,mlody;0;;
+Ella,2020,mlody;0;;
+Emma,2017,dorosly;2;Harry,2020,mlody;Stado2,3;George,2020,mlody;Stado2,4;;
+Emily,2012,dorosly;2;Cheril,2020,mlody;0;;Ella,2020,mlody;0;;;
